@@ -1,0 +1,3 @@
+# newGitTest
+Testing Git
+Test
